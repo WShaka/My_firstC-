@@ -10,6 +10,9 @@ namespace F3
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("colerful");
+            Console.ReadKey();
         }
     }
 }
